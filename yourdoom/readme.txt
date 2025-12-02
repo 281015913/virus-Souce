@@ -7,4 +7,7 @@ but i have lost them :( please help me create a good virus with harvester/smtp s
 backdoor :)
 
 
+
 ~Bob[cZ].exe AKA Yourdoom[cZ]
+
+修改参数
